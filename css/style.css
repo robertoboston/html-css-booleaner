@@ -63,7 +63,10 @@ table{
     margin-top: 40px;
     table-layout: fixed;
     width: 100%;
+    border-spacing: 0px;
 }
+
+
 
 .third-column{
     width: 70%;
