@@ -45,3 +45,52 @@
 .image-description{
     font-size: 12px;
 }
+
+.paragraph-1{
+    margin-top: 20px;
+}
+
+.yellow-background{
+    background-color: yellow;
+}
+
+.list{
+    margin-top: 40px;;
+    margin-left: 20px;
+}
+
+table{
+    margin-top: 40px;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.third-column{
+    width: 70%;
+}
+
+tr{
+    text-align: left;
+}
+
+thead{
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+.colored-row{
+    background-color: rgb(177, 229, 242)
+}
+
+.paragraph-2{
+    margin-top: 40px;
+}
+
+.advisor{
+    margin-top: 30px;
+    color: grey;
+}
+
+
+
+
