@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 200px;
+    padding-top: 20px;
+    
+    
+
+}
+
+.pattern{
+    background-image: url(pattern.png);
+    background-size: 300px;
+    background-color: rgb(78, 160, 255);
+    
+}
+
+.title{
+    margin-top: 10px;
+}
+
+.booleaners{
+    color: cyan;
+}
+
+.writer{
+    color: grey;
+}
+
+
+.data{
+    font-size: 10px;
+    color: grey;
+    margin: 0;
+}
+
+.tim-image{
+    margin-top: 20px;
+}
+
+.image-description{
+    font-size: 12px;
+}
